@@ -4,14 +4,6 @@
 I am currently a fourth year Software Engineering student at McMaster University. I'm a passionate software developer who enjoys building practical, scalable, and user-focused applications. I love exploring new technologies, solving challenging problems, and continuously improving my skills.
 
 
-## 🌐 Socials:
-Email: shd.irfan05@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/irfan-shahid1/
-
-Portfolio: https://irfans-portfolio.vercel.app/
-
-
 # 💻 Tech Stack:
 Languages
 
@@ -28,6 +20,13 @@ Databases and Cloud
 Tools and DevOps
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## 🌐 Socials:
+Email: shd.irfan05@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/irfan-shahid1/
+
+Portfolio: https://irfans-portfolio.vercel.app/
 
 
 
