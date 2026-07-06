@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I am currently a fourth year Software Engineering student at McMaster University. I'm a passionate software developer who enjoys building practical, scalable, and user-focused applications. I love exploring new technologies, solving challenging problems, and continuously improving my skills.
+I am currently a fourth year Software Engineering student at McMaster University. I am a passionate software developer who enjoys building practical, scalable, and user-focused applications. I love exploring new technologies, solving challenging problems, and continuously improving my skills.
 
 
 # 💻 Tech Stack:
